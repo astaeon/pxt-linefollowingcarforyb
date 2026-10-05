@@ -1,5 +1,5 @@
 {
-    "name": "LineFollowingCarForYB_Ext_V1",
+    "name": "LFC_Pxt-LineFollowingCarForYB",
     "description": "",
     "dependencies": {
         "core": "*",
