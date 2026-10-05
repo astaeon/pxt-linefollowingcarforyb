@@ -1,5 +1,5 @@
 {
-    "name": "3-IR Line-Following Car",
+    "name": "line-following-car_3IR",
     "description": "3-IR Line-Following Car Extension",
     "dependencies": {
         "core": "*",
