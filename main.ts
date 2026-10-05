@@ -1,4 +1,7 @@
-
+/**
+ * Custom blocks
+ */
+//% weight=100 color=#3377ff icon="\uf1b9"
 namespace 循跡車 {
     let IR_MID_PIN = DigitalPin.P1
     let IR_LEFT_PIN = DigitalPin.P4
@@ -80,7 +83,6 @@ namespace 循跡車 {
         YbExtend.MotorRun(YbExtend.enMotors.M3, RightSpeed);
     }
 }
-
 namespace YbExtend {
 
     const PCA9685_ADD = 0x40
