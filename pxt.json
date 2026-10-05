@@ -1,5 +1,5 @@
 {
-    "name": "LFC_Pxt-LineFollowingCarForYB",
+    "name": "3-IR Line-Following Car",
     "description": "3-IR Line-Following Car Extension",
     "dependencies": {
         "core": "*",
